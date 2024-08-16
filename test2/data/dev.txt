@@ -1,0 +1,64 @@
+{"content": "7月10日从检验中心返回酒店发票是什3+二一共十五元", "result_list": [{"text": "7月10日", "start": 0, "end": 5}], "prompt": "时间"}
+{"content": "7月10日从检验中心返回酒店发票是什3+二一共十五元", "result_list": [{"text": "检验中心", "start": 6, "end": 10}], "prompt": "出发点"}
+{"content": "7月10日从检验中心返回酒店发票是什3+二一共十五元", "result_list": [{"text": "酒店发票", "start": 12, "end": 16}], "prompt": "到达点"}
+{"content": "7月10日从检验中心返回酒店发票是什3+二一共十五元", "result_list": [{"text": "十五元", "start": 23, "end": 26}], "prompt": "费用"}
+{"content": "5月31号晚上10点54分打车回家49元", "result_list": [{"text": "5月31号晚上10点54分", "start": 0, "end": 13}], "prompt": "时间"}
+{"content": "5月31号晚上10点54分打车回家49元", "result_list": [{"text": "49元", "start": 17, "end": 20}], "prompt": "费用"}
+{"content": "5月31号晚上10点54分打车回家49元", "result_list": [{"text": "家", "start": 16, "end": 17}], "prompt": "到达点"}
+{"content": "9月23日北京南站到青岛站的高铁票", "result_list": [{"text": "9月23日", "start": 0, "end": 5}], "prompt": "时间"}
+{"content": "9月23日北京南站到青岛站的高铁票", "result_list": [{"text": "北京南站", "start": 5, "end": 9}], "prompt": "出发点"}
+{"content": "9月23日北京南站到青岛站的高铁票", "result_list": [{"text": "青岛站", "start": 10, "end": 13}], "prompt": "到达点"}
+{"content": "5月27日交通费十九元从立水桥到朝来家园", "result_list": [{"text": "5月27日", "start": 0, "end": 5}], "prompt": "时间"}
+{"content": "5月27日交通费十九元从立水桥到朝来家园", "result_list": [{"text": "立水桥", "start": 12, "end": 15}], "prompt": "出发点"}
+{"content": "5月27日交通费十九元从立水桥到朝来家园", "result_list": [{"text": "朝来家园", "start": 16, "end": 20}], "prompt": "到达点"}
+{"content": "5月27日交通费十九元从立水桥到朝来家园", "result_list": [{"text": "十九元", "start": 8, "end": 11}], "prompt": "费用"}
+{"content": "9月23日北京南站到青岛站的高铁票", "result_list": [{"text": "9月23日", "start": 0, "end": 5}], "prompt": "时间"}
+{"content": "9月23日北京南站到青岛站的高铁票", "result_list": [{"text": "北京南站", "start": 5, "end": 9}], "prompt": "出发点"}
+{"content": "9月23日北京南站到青岛站的高铁票", "result_list": [{"text": "青岛站", "start": 10, "end": 13}], "prompt": "到达点"}
+{"content": "5月17号晚上10点35分加班打车回家，36块五", "result_list": [{"text": "5月17号晚上10点35分", "start": 0, "end": 13}], "prompt": "时间"}
+{"content": "5月17号晚上10点35分加班打车回家，36块五", "result_list": [{"text": "家", "start": 18, "end": 19}], "prompt": "到达点"}
+{"content": "5月17号晚上10点35分加班打车回家，36块五", "result_list": [{"text": "36块五", "start": 20, "end": 24}], "prompt": "费用"}
+{"content": "八月十三号晚上十点零七分加班，打车回家三十元", "result_list": [{"text": "八月十三号晚上十点零七分", "start": 0, "end": 12}], "prompt": "时间"}
+{"content": "八月十三号晚上十点零七分加班，打车回家三十元", "result_list": [{"text": "家", "start": 18, "end": 19}], "prompt": "到达点"}
+{"content": "八月十三号晚上十点零七分加班，打车回家三十元", "result_list": [{"text": "三十元", "start": 19, "end": 22}], "prompt": "费用"}
+{"content": "上周从北京飞往上海花费一百元", "result_list": [{"text": "上周", "start": 0, "end": 2}], "prompt": "时间"}
+{"content": "上周从北京飞往上海花费一百元", "result_list": [{"text": "北京", "start": 3, "end": 5}], "prompt": "出发点"}
+{"content": "上周从北京飞往上海花费一百元", "result_list": [{"text": "上海", "start": 7, "end": 9}], "prompt": "到达点"}
+{"content": "上周从北京飞往上海花费一百元", "result_list": [{"text": "一百元", "start": 11, "end": 14}], "prompt": "费用"}
+{"content": "八月十三号晚上十点零七分加班，打车回家三十元", "result_list": [{"text": "八月十三号晚上十点零七分", "start": 0, "end": 12}], "prompt": "时间"}
+{"content": "八月十三号晚上十点零七分加班，打车回家三十元", "result_list": [{"text": "家", "start": 18, "end": 19}], "prompt": "到达点"}
+{"content": "八月十三号晚上十点零七分加班，打车回家三十元", "result_list": [{"text": "三十元", "start": 19, "end": 22}], "prompt": "费用"}
+{"content": "1月22日交通费33元拜访客户", "result_list": [{"text": "1月22日", "start": 0, "end": 5}], "prompt": "时间"}
+{"content": "1月22日交通费33元拜访客户", "result_list": [{"text": "33元", "start": 8, "end": 11}], "prompt": "费用"}
+{"content": "8月31号十一点零四工作加班五十块钱", "result_list": [{"text": "8月31号十一点零四", "start": 0, "end": 10}], "prompt": "时间"}
+{"content": "8月31号十一点零四工作加班五十块钱", "result_list": [{"text": "五十块钱", "start": 14, "end": 18}], "prompt": "费用"}
+{"content": "5月17号晚上10点35分加班打车回家，36块五", "result_list": [{"text": "5月17号晚上10点35分", "start": 0, "end": 13}], "prompt": "时间"}
+{"content": "5月17号晚上10点35分加班打车回家，36块五", "result_list": [{"text": "家", "start": 18, "end": 19}], "prompt": "到达点"}
+{"content": "5月17号晚上10点35分加班打车回家，36块五", "result_list": [{"text": "36块五", "start": 20, "end": 24}], "prompt": "费用"}
+{"content": "城市内交通费6月22日佛山至广州93元", "result_list": [{"text": "6月22日", "start": 6, "end": 11}], "prompt": "时间"}
+{"content": "城市内交通费6月22日佛山至广州93元", "result_list": [{"text": "佛山", "start": 11, "end": 13}], "prompt": "出发点"}
+{"content": "城市内交通费6月22日佛山至广州93元", "result_list": [{"text": "广州", "start": 14, "end": 16}], "prompt": "到达点"}
+{"content": "城市内交通费6月22日佛山至广州93元", "result_list": [{"text": "93元", "start": 16, "end": 19}], "prompt": "费用"}
+{"content": "10月22日从公司到首都机场38元过路费", "result_list": [{"text": "10月22日", "start": 0, "end": 6}], "prompt": "时间"}
+{"content": "10月22日从公司到首都机场38元过路费", "result_list": [{"text": "公司", "start": 7, "end": 9}], "prompt": "出发点"}
+{"content": "10月22日从公司到首都机场38元过路费", "result_list": [{"text": "首都机场", "start": 10, "end": 14}], "prompt": "到达点"}
+{"content": "10月22日从公司到首都机场38元过路费", "result_list": [{"text": "38元", "start": 14, "end": 17}], "prompt": "费用"}
+{"content": "深大到双龙28块钱4月24号交通费", "result_list": [{"text": "28块钱", "start": 5, "end": 9}], "prompt": "费用"}
+{"content": "深大到双龙28块钱4月24号交通费", "result_list": [{"text": "双龙", "start": 3, "end": 5}], "prompt": "到达点"}
+{"content": "深大到双龙28块钱4月24号交通费", "result_list": [{"text": "深大", "start": 0, "end": 2}], "prompt": "出发点"}
+{"content": "深大到双龙28块钱4月24号交通费", "result_list": [{"text": "4月24号", "start": 9, "end": 14}], "prompt": "时间"}
+{"content": "上周末坐动车从北京到上海花费五十块五毛", "result_list": [{"text": "上周末", "start": 0, "end": 3}], "prompt": "时间"}
+{"content": "上周末坐动车从北京到上海花费五十块五毛", "result_list": [{"text": "北京", "start": 7, "end": 9}], "prompt": "出发点"}
+{"content": "上周末坐动车从北京到上海花费五十块五毛", "result_list": [{"text": "五十块五毛", "start": 14, "end": 19}], "prompt": "费用"}
+{"content": "上周末坐动车从北京到上海花费五十块五毛", "result_list": [{"text": "上海", "start": 10, "end": 12}], "prompt": "到达点"}
+{"content": "5月31号晚上10点54分打车回家49元", "result_list": [], "prompt": "出发点"}
+{"content": "9月23日北京南站到青岛站的高铁票", "result_list": [], "prompt": "费用"}
+{"content": "9月23日北京南站到青岛站的高铁票", "result_list": [], "prompt": "费用"}
+{"content": "5月17号晚上10点35分加班打车回家，36块五", "result_list": [], "prompt": "出发点"}
+{"content": "八月十三号晚上十点零七分加班，打车回家三十元", "result_list": [], "prompt": "出发点"}
+{"content": "八月十三号晚上十点零七分加班，打车回家三十元", "result_list": [], "prompt": "出发点"}
+{"content": "1月22日交通费33元拜访客户", "result_list": [], "prompt": "出发点"}
+{"content": "1月22日交通费33元拜访客户", "result_list": [], "prompt": "到达点"}
+{"content": "8月31号十一点零四工作加班五十块钱", "result_list": [], "prompt": "出发点"}
+{"content": "8月31号十一点零四工作加班五十块钱", "result_list": [], "prompt": "到达点"}
+{"content": "5月17号晚上10点35分加班打车回家，36块五", "result_list": [], "prompt": "出发点"}

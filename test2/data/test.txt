@@ -1,0 +1,64 @@
+{"content": "深大到双龙28块钱4月24号交通费", "result_list": [{"text": "4月24号", "start": 9, "end": 14}], "prompt": "时间"}
+{"content": "深大到双龙28块钱4月24号交通费", "result_list": [{"text": "28块钱", "start": 5, "end": 9}], "prompt": "费用"}
+{"content": "深大到双龙28块钱4月24号交通费", "result_list": [{"text": "深大", "start": 0, "end": 2}], "prompt": "出发点"}
+{"content": "深大到双龙28块钱4月24号交通费", "result_list": [{"text": "双龙", "start": 3, "end": 5}], "prompt": "到达点"}
+{"content": "上海虹桥高铁到杭州时间是9月24日费用是73元", "result_list": [{"text": "9月24日", "start": 12, "end": 17}], "prompt": "时间"}
+{"content": "上海虹桥高铁到杭州时间是9月24日费用是73元", "result_list": [{"text": "上海虹桥", "start": 0, "end": 4}], "prompt": "出发点"}
+{"content": "上海虹桥高铁到杭州时间是9月24日费用是73元", "result_list": [{"text": "杭州", "start": 7, "end": 9}], "prompt": "到达点"}
+{"content": "上海虹桥高铁到杭州时间是9月24日费用是73元", "result_list": [{"text": "73元", "start": 20, "end": 23}], "prompt": "费用"}
+{"content": "去首都机场高速费十四块五", "result_list": [{"text": "首都机场", "start": 1, "end": 5}], "prompt": "到达点"}
+{"content": "去首都机场高速费十四块五", "result_list": [{"text": "十四块五", "start": 8, "end": 12}], "prompt": "费用"}
+{"content": "八月十五日晚上十点五十五分加班打车回家，五十三元", "result_list": [{"text": "八月十五日晚上十点五十五分", "start": 0, "end": 13}], "prompt": "时间"}
+{"content": "八月十五日晚上十点五十五分加班打车回家，五十三元", "result_list": [{"text": "家", "start": 18, "end": 19}], "prompt": "到达点"}
+{"content": "八月十五日晚上十点五十五分加班打车回家，五十三元", "result_list": [{"text": "五十三元", "start": 20, "end": 24}], "prompt": "费用"}
+{"content": "城市内交通费6月22日佛山至广州93元", "result_list": [{"text": "佛山", "start": 11, "end": 13}], "prompt": "出发点"}
+{"content": "城市内交通费6月22日佛山至广州93元", "result_list": [{"text": "广州", "start": 14, "end": 16}], "prompt": "到达点"}
+{"content": "城市内交通费6月22日佛山至广州93元", "result_list": [{"text": "93元", "start": 16, "end": 19}], "prompt": "费用"}
+{"content": "城市内交通费6月22日佛山至广州93元", "result_list": [{"text": "6月22日", "start": 6, "end": 11}], "prompt": "时间"}
+{"content": "昨天北京飞上海话费一百元", "result_list": [{"text": "昨天", "start": 0, "end": 2}], "prompt": "时间"}
+{"content": "昨天北京飞上海话费一百元", "result_list": [{"text": "北京", "start": 2, "end": 4}], "prompt": "出发点"}
+{"content": "昨天北京飞上海话费一百元", "result_list": [{"text": "一百元", "start": 9, "end": 12}], "prompt": "费用"}
+{"content": "出租车从酒店到公司一共34元时间是10月21日", "result_list": [{"text": "10月21日", "start": 17, "end": 23}], "prompt": "时间"}
+{"content": "出租车从酒店到公司一共34元时间是10月21日", "result_list": [{"text": "酒店", "start": 4, "end": 6}], "prompt": "出发点"}
+{"content": "出租车从酒店到公司一共34元时间是10月21日", "result_list": [{"text": "公司", "start": 7, "end": 9}], "prompt": "到达点"}
+{"content": "出租车从酒店到公司一共34元时间是10月21日", "result_list": [{"text": "34元", "start": 11, "end": 14}], "prompt": "费用"}
+{"content": "6月7日苏州街地铁站到海淀黄庄", "result_list": [{"text": "6月7日", "start": 0, "end": 4}], "prompt": "时间"}
+{"content": "6月7日苏州街地铁站到海淀黄庄", "result_list": [{"text": "苏州街", "start": 4, "end": 7}], "prompt": "出发点"}
+{"content": "6月7日苏州街地铁站到海淀黄庄", "result_list": [{"text": "海淀黄庄", "start": 11, "end": 15}], "prompt": "到达点"}
+{"content": "上海到苏州火车票59块五", "result_list": [{"text": "上海", "start": 0, "end": 2}], "prompt": "出发点"}
+{"content": "上海到苏州火车票59块五", "result_list": [{"text": "苏州", "start": 3, "end": 5}], "prompt": "到达点"}
+{"content": "上海到苏州火车票59块五", "result_list": [{"text": "59块五", "start": 8, "end": 12}], "prompt": "费用"}
+{"content": "城市内交通费7月5日金额114广州至佛山", "result_list": [{"text": "7月5日", "start": 6, "end": 10}], "prompt": "时间"}
+{"content": "城市内交通费7月5日金额114广州至佛山", "result_list": [{"text": "广州", "start": 15, "end": 17}], "prompt": "出发点"}
+{"content": "城市内交通费7月5日金额114广州至佛山", "result_list": [{"text": "佛山", "start": 18, "end": 20}], "prompt": "到达点"}
+{"content": "城市内交通费7月5日金额114广州至佛山", "result_list": [{"text": "114", "start": 12, "end": 15}], "prompt": "费用"}
+{"content": "上海虹桥高铁到杭州时间是9月24日费用是73元", "result_list": [{"text": "9月24日", "start": 12, "end": 17}], "prompt": "时间"}
+{"content": "上海虹桥高铁到杭州时间是9月24日费用是73元", "result_list": [{"text": "73元", "start": 20, "end": 23}], "prompt": "费用"}
+{"content": "上海虹桥高铁到杭州时间是9月24日费用是73元", "result_list": [{"text": "上海虹桥", "start": 0, "end": 4}], "prompt": "出发点"}
+{"content": "上海虹桥高铁到杭州时间是9月24日费用是73元", "result_list": [{"text": "杭州", "start": 7, "end": 9}], "prompt": "到达点"}
+{"content": "二零一九年十一月十三日晚上十点三十四分加班打车回家，四十三元", "result_list": [{"text": "二零一九年十一月十三日晚上十点三十四分", "start": 0, "end": 19}], "prompt": "时间"}
+{"content": "二零一九年十一月十三日晚上十点三十四分加班打车回家，四十三元", "result_list": [{"text": "家", "start": 24, "end": 25}], "prompt": "到达点"}
+{"content": "二零一九年十一月十三日晚上十点三十四分加班打车回家，四十三元", "result_list": [{"text": "四十三元", "start": 26, "end": 30}], "prompt": "费用"}
+{"content": "去苏州高铁站七十二元", "result_list": [{"text": "苏州高铁站", "start": 1, "end": 6}], "prompt": "到达点"}
+{"content": "去苏州高铁站七十二元", "result_list": [{"text": "七十二元", "start": 6, "end": 10}], "prompt": "费用"}
+{"content": "9月28日高铁上海虹桥到合肥南站共192点五元", "result_list": [{"text": "9月28日", "start": 0, "end": 5}], "prompt": "时间"}
+{"content": "9月28日高铁上海虹桥到合肥南站共192点五元", "result_list": [{"text": "上海虹桥", "start": 7, "end": 11}], "prompt": "出发点"}
+{"content": "9月28日高铁上海虹桥到合肥南站共192点五元", "result_list": [{"text": "合肥南站", "start": 12, "end": 16}], "prompt": "到达点"}
+{"content": "9月28日高铁上海虹桥到合肥南站共192点五元", "result_list": [{"text": "192点五元", "start": 17, "end": 23}], "prompt": "费用"}
+{"content": "5月9日交通费29元从北苑到望京搜后", "result_list": [{"text": "5月9日", "start": 0, "end": 4}], "prompt": "时间"}
+{"content": "5月9日交通费29元从北苑到望京搜后", "result_list": [{"text": "北苑", "start": 11, "end": 13}], "prompt": "出发点"}
+{"content": "5月9日交通费29元从北苑到望京搜后", "result_list": [{"text": "望京搜后", "start": 14, "end": 18}], "prompt": "到达点"}
+{"content": "5月9日交通费29元从北苑到望京搜后", "result_list": [{"text": "29元", "start": 7, "end": 10}], "prompt": "费用"}
+{"content": "5月31号晚上10点54分打车回家49元", "result_list": [{"text": "5月31号晚上10点54分", "start": 0, "end": 13}], "prompt": "时间"}
+{"content": "5月31号晚上10点54分打车回家49元", "result_list": [{"text": "49元", "start": 17, "end": 20}], "prompt": "费用"}
+{"content": "去首都机场高速费十四块五", "result_list": [], "prompt": "出发点"}
+{"content": "去首都机场高速费十四块五", "result_list": [], "prompt": "时间"}
+{"content": "八月十五日晚上十点五十五分加班打车回家，五十三元", "result_list": [], "prompt": "出发点"}
+{"content": "昨天北京飞上海话费一百元", "result_list": [], "prompt": "到达点"}
+{"content": "6月7日苏州街地铁站到海淀黄庄", "result_list": [], "prompt": "费用"}
+{"content": "上海到苏州火车票59块五", "result_list": [], "prompt": "时间"}
+{"content": "二零一九年十一月十三日晚上十点三十四分加班打车回家，四十三元", "result_list": [], "prompt": "出发点"}
+{"content": "去苏州高铁站七十二元", "result_list": [], "prompt": "出发点"}
+{"content": "去苏州高铁站七十二元", "result_list": [], "prompt": "时间"}
+{"content": "5月31号晚上10点54分打车回家49元", "result_list": [], "prompt": "出发点"}
+{"content": "5月31号晚上10点54分打车回家49元", "result_list": [], "prompt": "到达点"}
